@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'arsalanmakhajankar.com',
-    href: 'https://arsalanmakhajankar.com',
+    href: 'https://arsalan-makhajankar-portfolio-website.vercel.app/',
   },
   {
     social: 'email',
