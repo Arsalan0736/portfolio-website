@@ -1,0 +1,97 @@
+{
+  "name": "Arsalan Makhajankar",
+  "title": "Software Engineer | Full Stack Developer",
+  "summary": "MERN Stack & Next.js developer experienced in full‑stack apps, REST APIs, and microservices. Skilled in React, Node, Express, MongoDB, Java, Python, and SQL; adept at scalable solutions and backend integration.",
+  "location": "Maharashtra, India",
+  "email": "arsalankm786@gmail.com",
+  "website": "",
+  "phone": "+91-9890109975",
+  "experience": [
+    {
+      "company": "JPMorgan Chase & Co.",
+      "role": "Software Engineering Job Simulation",
+      "start": "Jun 2025",
+      "end": "Jul 2025",
+      "highlights": [
+        "Developed and configured a Spring Boot backend using Java, Maven, and H2 to simulate financial transaction systems.",
+        "Integrated Apache Kafka for event-driven messaging, improving modularity and responsiveness.",
+        "Designed and consumed RESTful APIs with secure microservice communication.",
+        "Applied SDLC best practices across stages of project development."
+      ]
+    },
+    {
+      "company": "TechnoHacks Edutech",
+      "role": "Web Developer Intern",
+      "start": "Feb 2024",
+      "end": "Mar 2024",
+      "highlights": [
+        "Built and deployed MERN stack applications integrating React.js, Node.js, Express.js, and MongoDB.",
+        "Developed REST APIs with CRUD operations and NoSQL database integration for scalable storage.",
+        "Implemented responsive UI designs using Next.js ensuring cross-browser and cross-platform compatibility.",
+        "Collaborated in Agile workflows using Git/GitHub for version control and team reviews."
+      ]
+    },
+    {
+      "company": "Bharat Intern",
+      "role": "Full Stack Developer Intern",
+      "start": "Jan 2024",
+      "end": "Feb 2024",
+      "highlights": [
+        "Designed and deployed full-stack applications using React.js, Node.js, and Express.js with focus on user-friendly interfaces.",
+        "Optimized application performance and ensured cross-platform compatibility.",
+        "Managed contributions and peer code reviews using Git/GitHub in team-based Agile projects."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AiCruiter – AI Voice Recruiter",
+      "stack": "Next.js, React, Vapi, Supabase",
+      "period": "Jun 2025 – Jul 2025",
+      "highlights": [
+        "Built a Next.js full-stack application with Vapi Voice AI, reducing manual screening efforts by 60%.",
+        "Integrated Supabase authentication and database storage to manage 1,000+ candidate profiles.",
+        "Designed scalable recruitment workflows for large candidate datasets."
+      ]
+    },
+    {
+      "name": "AI Therapist Fine-Tuning Framework",
+      "stack": "Hugging Face, Next.js, LLMs",
+      "period": "Jul 2025 – Present",
+      "highlights": [
+        "Developed a custom LLM fine-tuning framework on psychology datasets, improving empathetic accuracy by 30%+.",
+        "Integrated Hugging Face APIs with a Next.js web UI, tested on 15+ devices."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gharda Institute of Technology, Khed, India",
+      "degree": "B.E., Computer Engineering",
+      "start": "Nov 2022",
+      "end": "May 2026"
+    },
+    {
+      "institution": "S.D. Gadre Junior College, Chiplun, India",
+      "degree": "HSC (12th Science)",
+      "start": "",
+      "end": "Jun 2022"
+    }
+  ],
+  "skills": [
+    "Java", "Python", "JavaScript (ES6+)", "SQL",
+    "Next.js", "Node.js", "Express.js", "React.js", "Redux",
+    "Oracle", "MongoDB", "Supabase", "SQLite",
+    "SDLC", "REST APIs", "Agile", "Microservices",
+    "Git", "GitHub", "Tailwind CSS", "Responsive Design"
+  ],
+  "links": [
+    { "label": "GitHub", "url": "" },
+    { "label": "LinkedIn", "url": "" }
+  ],
+  "awards": [
+    "Oracle Database Foundations Associate – Certificate of Recognition (Mar 2025)",
+    "Team Lead – Hack Celestials, Pillai College of Engineering (Sep 2024)",
+    "Next.js: Creating and Hosting a Full-Stack Site – LinkedIn Learning (Jan 2025)"
+  ]
+}
